@@ -1,2 +1,1 @@
-# 0x00-vagrant
-a vagrant config 
+a  vagrant config with how it works 
